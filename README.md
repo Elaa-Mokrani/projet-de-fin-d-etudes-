@@ -38,4 +38,6 @@ Dashboard : visualisation et alertes
 Elaa Mokrani
 Projet de Fin d’Études – Licence en Systèmes Informatiques Embarqués et IoT
 Année universitaire : 2023–2024
+
+
 <img width="617" height="351" alt="telecom" src="https://github.com/user-attachments/assets/912b397a-ee47-4376-a00f-9fbee5bd3a4f" />
